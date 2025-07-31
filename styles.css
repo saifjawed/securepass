@@ -290,8 +290,8 @@ h1{
 
 @media (max-width: 768px) {
     body {
-        margin-top: 50%;
-        transform: scale(0.5);
+        margin-top: 2rem;
+        transform: scale(0.6);
         transform-origin: top center;
         overflow-x:hidden;
     }
