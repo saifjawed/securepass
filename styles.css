@@ -291,6 +291,8 @@ h1{
 @media (max-width: 768px) {
     body {
         padding: 1rem;
+        transform: scale(0.8);
+        transform-origin: top center;
     }
 
     h1 {
